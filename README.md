@@ -1,7 +1,7 @@
 # MBA-FIAP-SERVICE
 ## Entrega da atividade de microserviços do MBA da FIAP
 
-App em Ionic com integração microserviço em Spring Boot:
+Serviço para a integraçã ocom o App em Ionic.
 
 ## Integrantes do Grupo H
 > Gisele Niero Scaramel - gisscaramel@gmail.com
