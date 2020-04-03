@@ -30,3 +30,35 @@ out/
 
 ### VS Code ###
 .vscode/
+/.
+/src/test/
+/.gradle/
+/.idea/
+/build/
+/build/classes/
+/build/generated/
+/build/libs/
+/build/reports/
+/build/resources/
+/build/test-results/
+/build/tmp/
+/gradle/
+/src/
+/src/main/
+/src/main/java/
+/src/main/java/br/com/fiap/bank/
+/src/main/java/br/com/fiap/bank/controller/
+/src/main/java/br/com/fiap/bank/domain/
+/src/main/java/br/com/fiap/bank/repository/
+/src/main/java/br/com/fiap/bank/service/
+/src/main/java/br/com/fiap/bank/service/TransactionService.java
+/src/main/java/br/com/fiap/bank/service/TransactionServiceImpl.java
+/src/main/resources/
+/.gitignore
+/build.gradle
+/Dockerfile
+/gradlew
+/gradlew.bat
+/HELP.md
+/README.md
+/settings.gradle
